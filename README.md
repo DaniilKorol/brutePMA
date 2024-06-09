@@ -7,7 +7,6 @@ Brutforce PhpMyAdmin
 # Установка
     apt update && apt upgrade -y
     apt install git python3 python3-pip -y
-    git clone https://github.com/FSystem88/brutePMA
     cd brutePMA
     python3 -m pip install -r req.txt
 
@@ -35,10 +34,6 @@ Brutforce PhpMyAdmin
 **Example:**
 
     python3 main.py -t https://example/phpmyadmin/ -u phpmyadmin -p ../passwords.txt -r 100
-
-***Словари для брутфорса можно найти как в интернете, так и у меня на [Яндекс Диске](https://disk.yandex.ru/d/thBvec7hj3x6KA?w=1).***
-
-***PSы: hashkiller-dict.7z самый большой, о нём я [написал в своём ТГ канале](https://t.me/FS88ch/307).***
 
 # Обновить
     cd ~/brutePMA/ && git pull
