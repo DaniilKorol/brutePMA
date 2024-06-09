@@ -4,8 +4,6 @@
 # brutePMA
 Brutforce PhpMyAdmin 
 
-# ---> <a href="https://t.me/FS88ch">Канал в Telegram</a> <---
-
 # Установка
     apt update && apt upgrade -y
     apt install git python3 python3-pip -y
