@@ -43,11 +43,6 @@ Brutforce PhpMyAdmin
 # Обновить
     cd ~/brutePMA/ && git pull
 
-# Приму в дар деньги на пиво! :))
-<i>в любой валюте))</i><br>
-<b>Донатерная!</b><br>
-<b>1. PAYPAL:</b> https://paypal.me/FSystem88<br>
-<b>2. QIWI:</b> https://qiwi.com/n/FSYSTEM88<br>
 <b>3. YANDEX MONEY:</b> https://money.yandex.ru/to/410015440700904<br>
 <br>
 <i>Free programmers also need to eat :)</i>
