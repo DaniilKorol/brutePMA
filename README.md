@@ -43,7 +43,3 @@ Brutforce PhpMyAdmin
 # Обновить
     cd ~/brutePMA/ && git pull
 
-<b>3. YANDEX MONEY:</b> https://money.yandex.ru/to/410015440700904<br>
-<br>
-<i>Free programmers also need to eat :)</i>
-<br>
